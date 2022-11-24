@@ -1,2 +1,4 @@
 print("EWelcome to the Session");
 print("2nd commit");
+print("EWelcome to the Session");
+print("2nd commit");
